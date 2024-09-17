@@ -1,5 +1,6 @@
 GD 1.3 es la última versión que tengo en el ordenador de la red neuronal.
 Config-feedforward es el txt donde están todos los parámetros
+Ambos archivos deben estar en el mismo directorio para que puedan leerse.
 
 Los cuadrados que se ven de vez en cuando modifican un poco el juego al colisionar con ellos. Son la clase Orb del código.
   Cuadrado Morado: Cambia la velocidad vertical del jugador al doble.
