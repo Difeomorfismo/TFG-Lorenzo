@@ -16,7 +16,7 @@ En esta versión, en vez de comprobar cada píxel para comprobar la distancia, s
 En las líneas 302 y 303 si se descomentan, dibuja las dos rectas de las que hablo y cómo colisiona con los obstáculos.
 
 SOBRE LA RED NEURONAL
-Uso la librería "neat", se inicializa en la línea 149 en forma de bucle. Player.l guarda la distancia en píxeles hasta colisionar en ambas direcciones y la altura en la que se encuentra el jugador.
+Uso la librería "neat", se inicializa en la línea 336, en la función run. Player.l guarda la distancia en píxeles hasta colisionar en ambas direcciones y la altura en la que se encuentra el jugador.
 en la linea 205 lo pongo en forma de tupla que es lo que admite la librería y en la 207 recibo la información de la función de activación después de que la librería haga los cálculos.
 
 En ocasiones reduzco el fitness como en la línea 246 y 250, creo recordar que esto fue un intento dsesperado de castigar quitando 10 de fitness a aquellos jugadores que se chocaran contra el techo o el suelo, pero no funciona, se siguen
