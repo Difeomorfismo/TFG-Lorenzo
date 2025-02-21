@@ -1,0 +1,10 @@
+elite:20
+generacion:96
+capas: 7-10-10-7-1
+
+record:3274.8
+media: 548.2736000000006
+
+
+especial:
+capaces de ajustar el salto y algunos problemas difíciles
